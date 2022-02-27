@@ -28,19 +28,19 @@ namespace WindowsFormsApp2
             miAlumno.Nota = Convert.ToInt32(aluNota.Text);
             if (miAlumno.Nota < 5)
             {
-                miAlumnoNotaTexto = "Suspenso";
+                miAlumnoNotaTexto = "suspenso";
             }
             else if (miAlumno.Nota < 7)
             {
-                miAlumnoNotaTexto = "Aprobado";
+                miAlumnoNotaTexto = "aprobado";
             }
             else if (miAlumno.Nota < 9)
             {
-                miAlumnoNotaTexto = "Notable";
+                miAlumnoNotaTexto = "notable";
             }
             else 
             
-                miAlumnoNotaTexto = "Sobresaliente";
+                miAlumnoNotaTexto = "sobresaliente";
             
             miAlumnoStr = aluNombre.Text + " " + aluNota.Text + " " + miAlumnoNotaTexto + "\n";
             listaAlumnos.AppendText(miAlumnoStr);
