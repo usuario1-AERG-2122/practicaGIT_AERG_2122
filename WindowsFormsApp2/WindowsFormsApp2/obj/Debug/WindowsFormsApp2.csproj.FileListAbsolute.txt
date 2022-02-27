@@ -8,3 +8,13 @@ C:\Users\AsensioEmilio\source\repos\usuario1-AERG-2122\practicaGIT_AERG_2122\Win
 C:\Users\AsensioEmilio\source\repos\usuario1-AERG-2122\practicaGIT_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 C:\Users\AsensioEmilio\source\repos\usuario1-AERG-2122\practicaGIT_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\AsensioEmilio\source\repos\usuario1-AERG-2122\practicaGIT_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Sonsete\source\repos\practicaGIT2_AERG_2122\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
